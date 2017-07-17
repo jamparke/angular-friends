@@ -11,9 +11,11 @@ We will be creating a searchable, filterable list of friends.
 
 Fork and clone this repo
 
-* Include an angular script tag
-* Create an `app.js` and `FriendCtrl.js` file
+* Include an angular script tag X
+* Create an `app.js` and `FriendCtrl.js` file X
 * Create a module in `app.js` with the name `myApp`
+
+
 * Create a controller named `FriendCtrl`
 * Add `ng-app` and `ng-controller` to index.html
 * Use `$scope` and `{{ }}` to ensure your app is running properly
@@ -242,7 +244,7 @@ Below is some fake data — an array of objects representing our friends. Copy a
   ```
 </details>
 
-Add `{{friends}}` to the html page and refresh to see all of your friend data. Remove it afterwards.
+Add `{friends}}{` to the html page and refresh to see all of your friend data. Remove it afterwards.
 
 **Code**
 <details>
